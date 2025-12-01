@@ -1,0 +1,8 @@
+onset	duration	sample	value	event_onset	event_type
+0	0	0	ivan_talks_01	1	ivan_talks_01
+9.59375	0.001953125	2456	Right trigger pressed	2457	Right trigger pressed
+9.73828125	0.001953125	2493	Right trigger released	2494	Right trigger released
+19.99804688	n/a	5119.5	boundary	5120.5	boundary
+20	0	5120	ivan_talks_02	5121	ivan_talks_02
+34.99804688	n/a	8959.5	boundary	8960.5	boundary
+35	0	8960	ivan_talks_03	8961	ivan_talks_03
