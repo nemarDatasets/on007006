@@ -1,0 +1,28 @@
+onset	duration	sample	value	event_onset	event_type
+0	0.001953125	0	Start second meditation audio	1	Start second meditation audio
+0.400390625	0.001953125	102.5	Left trigger released	103.5	Left trigger released
+0.6015625	0.001953125	154	Right trigger released	155	Right trigger released
+3.734375	0.001953125	956	Right trigger pressed	957	Right trigger pressed
+4.251953125	0.001953125	1088.5	Right trigger released	1089.5	Right trigger released
+5.71875	0.001953125	1464	Right trigger pressed	1465	Right trigger pressed
+6.13671875	0.001953125	1571	Right trigger released	1572	Right trigger released
+9.62109375	0.001953125	2463	Right trigger pressed	2464	Right trigger pressed
+9.98828125	0.001953125	2557	Right trigger released	2558	Right trigger released
+12.74023438	0.001953125	3261.5	Right trigger pressed	3262.5	Right trigger pressed
+13.2734375	0.001953125	3398	Right trigger released	3399	Right trigger released
+13.40625	0.001953125	3432	Right trigger pressed	3433	Right trigger pressed
+13.85742188	0.001953125	3547.5	Right trigger released	3548.5	Right trigger released
+18.20898438	0.001953125	4661.5	Right trigger pressed	4662.5	Right trigger pressed
+18.55859375	0.001953125	4751	Right trigger released	4752	Right trigger released
+114.9355469	0.001953125	29423.5	Right trigger pressed	29424.5	Right trigger pressed
+115.3027344	0.001953125	29517.5	Left trigger pressed	29518.5	Left trigger pressed
+115.7695312	0.001953125	29637	Right trigger released	29638	Right trigger released
+115.8203125	0.001953125	29650	Left trigger released	29651	Left trigger released
+123.2070312	0.001953125	31541	Right trigger pressed	31542	Right trigger pressed
+123.5058594	0.001953125	31617.5	Left trigger pressed	31618.5	Left trigger pressed
+123.7402344	0.001953125	31677.5	Right trigger released	31678.5	Right trigger released
+123.890625	0.001953125	31716	Left trigger released	31717	Left trigger released
+124.5234375	0.001953125	31878	Right trigger pressed	31879	Right trigger pressed
+125.2578125	0.001953125	32066	Right trigger released	32067	Right trigger released
+128.2597656	0.001953125	32834.5	Right trigger pressed	32835.5	Right trigger pressed
+128.8925781	0.001953125	32996.5	Right trigger released	32997.5	Right trigger released
