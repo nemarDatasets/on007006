@@ -1,0 +1,12 @@
+onset	duration	sample	value	event_onset	event_type
+0	0	0	ivan_talks_01	1	ivan_talks_01
+12.99804688	n/a	3327.5	boundary	3328.5	boundary
+13	0	3328	ivan_talks_02	3329	ivan_talks_02
+25.99804688	n/a	6655.5	boundary	6656.5	boundary
+26	0	6656	ivan_talks_03	6657	ivan_talks_03
+38.99804688	n/a	9983.5	boundary	9984.5	boundary
+39	0	9984	ivan_talks_04	9985	ivan_talks_04
+53.99804688	n/a	13823.5	boundary	13824.5	boundary
+54	0	13824	ivan_talks_05	13825	ivan_talks_05
+63.99804688	n/a	16383.5	boundary	16384.5	boundary
+64	0	16384	ivan_talks_06	16385	ivan_talks_06
