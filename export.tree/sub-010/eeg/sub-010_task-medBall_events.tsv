@@ -1,0 +1,4 @@
+onset	duration	sample	value	event_onset	event_type
+0	0.001953125	0	Start meditation audio	1	Start meditation audio
+3.916015625	0.001953125	1002.5	Left trigger released	1003.5	Left trigger released
+3.962890625	0.001953125	1014.5	Right trigger released	1015.5	Right trigger released
