@@ -1,9 +1,9 @@
 {
   "version": "2.0",
-  "dataset_id": "on007006",
-  "source": "openneuro",
-  "source_id": "ds007006",
+  "pipeline_stage": "validated",
   "title": "VR-Compassion Cultivation Training",
+  "license": "CC0",
+  "dataset_type": "derivative",
   "authors": {
     "Ying Wu": {},
     "Enrique Carrillosulub": {},
@@ -13,21 +13,61 @@
     "Erik Virre": {},
     "Cassandra Vieten": {}
   },
-  "license": "CC0",
-  "dataset_type": "derivative",
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds007006.v1.0.0",
       "identifier_type": "DOI",
-      "relation_type": "IsIdenticalTo"
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/on007006",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/on007006",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
     }
   ],
-  "pipeline_stage": "seeded",
-  "bids_version": "v1.10.0",
-  "recording_modality": [
+  "resource_type_general": "Dataset",
+  "modalities": [
     "eeg"
   ],
-  "datatypes": [
-    "eeg"
-  ]
+  "resource_type_specific": "EEG Dataset",
+  "sizes": [
+    "963.2 MB (102 files)"
+  ],
+  "formats": [
+    ".fdt",
+    ".json",
+    ".m",
+    ".md",
+    ".set",
+    ".tsv",
+    ".yml"
+  ],
+  "description": "This dataset comprises EEG recordings collected during a virtual reality-based compassion cultivation training (VR-CCT) study conducted in the immersive social environment of Compassion Island. Participants engaged in guided meditations, visualization exercises, and interactive role-play scenarios with animated characters designed to cultivate compassion. The study integrates neuroimaging data with behavioral observations from a multi-setting virtual environment to investigate the neural correlates of compassion training augmented through immersive technology.",
+  "methods_description": "EEG data were collected during VR-based compassion cultivation training sessions conducted in AltspaceVR's Compassion Island environment. Sessions included three main components: guided meditation in a meditation hall with breath regulation assistance, compassion visualization exercises in a garden setting, and interactive clinical role-play with a virtual patient character. Participants engaged in free conversation with live actor-controlled avatars representing a guide and a patient.",
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "virtual reality"
+    },
+    {
+      "term": "compassion cultivation training"
+    },
+    {
+      "term": "meditation"
+    },
+    {
+      "term": "neuroscience"
+    },
+    {
+      "term": "immersive environments"
+    }
+  ],
+  "source_hash": "cc4fc700721ca3022955ea91fdba4bcd2afd28c877c11d1889471001d7b31680"
 }
