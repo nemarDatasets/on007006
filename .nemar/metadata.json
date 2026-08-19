@@ -1,7 +1,9 @@
 {
   "version": "2.0",
-  "pipeline_stage": "validated",
+  "pipeline_stage": "enriched",
   "title": "VR-Compassion Cultivation Training",
+  "description": "This dataset contains EEG recordings from a study investigating virtual reality (VR)-based augmentation of compassion cultivation training (CCT). Participants engaged with an immersive VR social environment called Compassion Island, implemented in AltspaceVR, which included a meditation hall, a garden, and a clinic setting where they interacted with live-actor-controlled avatars. The dataset captures neural responses associated with guided meditation, compassion visualization exercises, and simulated social interactions designed to cultivate compassion.",
+  "methods_description": "EEG data were collected during VR-based compassion cultivation training sessions conducted in AltspaceVR's Compassion Island environment. Sessions included three main components: guided meditation in a meditation hall with breath regulation assistance, compassion visualization exercises in a garden setting, and interactive clinical role-play with a virtual patient character. Participants engaged in free conversation with live actor-controlled avatars representing a guide and a patient.",
   "license": "CC0",
   "dataset_type": "derivative",
   "authors": {
@@ -13,6 +15,27 @@
     "Erik Virre": {},
     "Cassandra Vieten": {}
   },
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "virtual reality"
+    },
+    {
+      "term": "compassion cultivation training"
+    },
+    {
+      "term": "Meditation",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D019122"
+    },
+    {
+      "term": "Social Interaction",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000083505"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds007006.v1.0.0",
@@ -31,10 +54,10 @@
     }
   ],
   "resource_type_general": "Dataset",
+  "resource_type_specific": "EEG Dataset",
   "modalities": [
     "eeg"
   ],
-  "resource_type_specific": "EEG Dataset",
   "sizes": [
     "963.2 MB (102 files)"
   ],
@@ -46,28 +69,6 @@
     ".set",
     ".tsv",
     ".yml"
-  ],
-  "description": "This dataset comprises EEG recordings collected during a virtual reality-based compassion cultivation training (VR-CCT) study conducted in the immersive social environment of Compassion Island. Participants engaged in guided meditations, visualization exercises, and interactive role-play scenarios with animated characters designed to cultivate compassion. The study integrates neuroimaging data with behavioral observations from a multi-setting virtual environment to investigate the neural correlates of compassion training augmented through immersive technology.",
-  "methods_description": "EEG data were collected during VR-based compassion cultivation training sessions conducted in AltspaceVR's Compassion Island environment. Sessions included three main components: guided meditation in a meditation hall with breath regulation assistance, compassion visualization exercises in a garden setting, and interactive clinical role-play with a virtual patient character. Participants engaged in free conversation with live actor-controlled avatars representing a guide and a patient.",
-  "keywords": [
-    {
-      "term": "EEG"
-    },
-    {
-      "term": "virtual reality"
-    },
-    {
-      "term": "compassion cultivation training"
-    },
-    {
-      "term": "meditation"
-    },
-    {
-      "term": "neuroscience"
-    },
-    {
-      "term": "immersive environments"
-    }
   ],
   "source_hash": "cc4fc700721ca3022955ea91fdba4bcd2afd28c877c11d1889471001d7b31680"
 }
